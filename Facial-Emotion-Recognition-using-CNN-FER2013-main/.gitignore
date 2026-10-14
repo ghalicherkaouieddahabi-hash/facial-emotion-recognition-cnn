@@ -1,0 +1,7 @@
+﻿venv/
+data/venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+data/fer2013.csv
